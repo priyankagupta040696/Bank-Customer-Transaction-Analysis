@@ -136,3 +136,7 @@ timeline.
 **Raw Data → Data Profiling → Cleaning → Validation → Feature
 Engineering → Data Model → PivotTable Analysis → Customer Segmentation →
 Interactive Dashboard → Business Insights**
+
+## Project Files
+
+The final Excel workbook contains the full 1M+ row dataset in the Excel Data Model and exceeds GitHub's practical file-size limit. Therefore, the repository presents the project methodology, dashboard output, analytical findings, and dataset source rather than the full workbook.
