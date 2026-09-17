@@ -102,7 +102,7 @@ transaction frequency and total customer transaction value.
 ## Dashboard
 
 ![Bank Customer & Transaction Analysis
-Dashboard](images/bank_transaction_dashboard.png)
+Dashboard](bank_transaction_dashboard.png)
 
 The interactive Excel dashboard includes five dynamic KPI cards, daily
 transaction volume, Top 10 locations, time-of-day analysis, amount-band
